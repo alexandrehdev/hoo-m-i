@@ -1,4 +1,9 @@
-.form-content{
-  display: flex;
-  justify-content: center;
+:root{
+  --too-dark: #1b1d20;
+  --light-dark: #282a2d;
+  --main-white: #F9FAFF;
+  --main-purple: #A020F0;
+  --main-blue:#87CEFA;
+  --main-lightblue:#ADD8E6;
+  --main-darkblue:#00BFFF;
 }

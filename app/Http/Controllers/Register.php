@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class Register extends Controller
 {
   public function show(){
-    echo "to aqui";
+    
   }
 }
